@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Shukla</h1>
 
-<h3 align="center">
-AI Engineer • Full Stack Developer • NLP Enthusiast
-</h3>
-
 <p align="center">
-Building AI-powered applications using LLMs, NLP, Machine Learning, React, Node.js and Modern Web Technologies.
+AI Engineer • Full Stack Developer • NLP Enthusiast
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+LLM+and+NLP+Applications;React+%7C+Node.js+%7C+Python" />
+</p>
 ---
 
 ## 🚀 About Me
